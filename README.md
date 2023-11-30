@@ -29,10 +29,5 @@ The dataset comprises various books authored by Charles Darwin, offering a compr
 
 ## Usage:
 
-Explore the notebooks and scripts in this repository to gain insights into the creation of the content-based book recommendation system. The documentation provides step-by-step guidance, making it accessible for both beginners and experienced practitioners.
+Explore the notebooks and scripts in this repository to gain insights into the creation of the content-based book recommendation system. 
 
-Feel free to adapt and extend this project to explore other authors or enhance the recommendation system's capabilities. 
-
----
-
-**Note:** This project is designed for educational and exploratory purposes, offering a hands-on experience in content-based recommendation systems using Charles Darwin's literary works as a case study.
